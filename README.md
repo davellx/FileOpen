@@ -5,6 +5,12 @@ FileOpen
 
 FileOpen for OpenFL, lets you open a file with the default application or the app selector
 
+##Installation
+
+```
+haxelib git FileOpen https://github.com/davellx/FileOpen.git
+```
+
 ##Use
 
 add FileOpen in haxelib, have a file to open.
